@@ -1,0 +1,42 @@
+body {
+  text-align: center;
+  font-family: Helvetica;
+}
+
+.flatiron-building {
+  color: White;
+}
+
+.description {
+  font-size: 14px;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+.links {
+  font-size: 18px;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size:23px;
+  font-weight: bold;
+}
+
+.footer {
+  text-align: left;
+  font-size:11px;
+  color: White;
+  background-color: dimgray;
+}
+
+a {
+  color: White;
+}
